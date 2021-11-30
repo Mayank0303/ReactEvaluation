@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Dhoom",
+      "release": 2004,
+      "ticketprice": 200
+    },
+    {
+      "id": 2,
+      "name": "Dhol",
+      "release": 2006,
+      "ticketprice": 180
+    },
+    {
+      "id": 3,
+      "name": "Chup Chup ke",
+      "release": 2008,
+      "ticketprice": 210
+    },
+    {
+      "id": 4,
+      "name": "Hero",
+      "release": 2007,
+      "ticketprice": 100
+    },
+    {
+      "id": 5,
+      "name": "SOTY",
+      "release": 2004,
+      "ticketprice": 250
+    },
+    {
+      "id": 6,
+      "name": "Sunflower",
+      "release": 2020,
+      "ticketprice": 160
+    }
+  ]
+}
